@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Test transaction",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-13T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-07-14T13:36:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Aluguel",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 2600,
+      "createdAt": "2022-07-14T13:36:44.505Z"
+    },
+    {
+      "id": 4,
+      "description": "Salário",
+      "type": "income",
+      "category": "Salário",
+      "price": 7600,
+      "createdAt": "2022-07-14T13:36:44.505Z"
+    },
+    {
+      "description": "teste",
+      "price": 200,
+      "category": "Teste",
+      "type": "income",
+      "createdAt": "2023-04-25T03:30:55.023Z",
+      "id": 5
+    },
+    {
+      "description": "Iogurte",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-25T03:44:55.724Z",
+      "id": 6
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 13000,
+      "category": "App",
+      "type": "income",
+      "createdAt": "2023-04-25T04:25:27.439Z",
+      "id": 7
+    }
+  ]
+}
